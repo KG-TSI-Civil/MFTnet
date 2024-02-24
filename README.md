@@ -2,7 +2,7 @@
 A Multi-Task Fourier Transformer Network For Seismic Source Characterization Estimation From a Single-Station Waveform
 
 ```
-@article{10443956,
+@article{Ge2024MFTnet,
   author={Ge, Kang and Wang, Chen and Guo, Yu-Tao and Tang, Yan-Song and Fan, Jian-Sheng},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={A Multi-Task Fourier Transformer Network For Seismic Source Characterization Estimation From a Single-Station Waveform}, 

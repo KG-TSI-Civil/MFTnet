@@ -7,5 +7,6 @@ A Multi-Task Fourier Transformer Network For Seismic Source Characterization Est
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={A Multi-Task Fourier Transformer Network For Seismic Source Characterization Estimation From a Single-Station Waveform}, 
   year={2024},
+  publisher={IEEE},
   doi={10.1109/LGRS.2024.3369108}}
 ```
